@@ -14,6 +14,7 @@ I build AI systems that do real work: agent harnesses, private local-first AI, M
 
 | Project | What it is |
 |---|---|
+| [claude-code-guardrails](https://github.com/TGabeCar/claude-code-guardrails) | **New:** config-driven safety hooks for Claude Code (secrets, live tools, PII). Tested on Linux + Windows |
 | [AIArena](https://github.com/TGabeCar/AIArena) | Blind side-by-side evaluation of ChatGPT, Claude, Gemini, Grok and Perplexity |
 | [CandidateRanker](https://github.com/TGabeCar/CandidateRanker) | AI resume ranking with dual leaderboards (React + FastAPI) |
 | [OpenClaw-SandBox](https://github.com/TGabeCar/OpenClaw-SandBox) | Self-hosted, sandboxed AI coding agent for Windows |
@@ -22,4 +23,4 @@ I build AI systems that do real work: agent harnesses, private local-first AI, M
 
 **Stack:** Python · TypeScript · C# · PowerShell · FastAPI · React · .NET · Azure · Docker · Ollama · LiteLLM · Claude Code · MCP
 
-**Currently building:** open-source guardrails for Claude Code, and a local-first agent router with policy and audit logging.
+**Currently building:** a local-first agent router with policy and audit logging.
