@@ -16,7 +16,10 @@ Most of my day is run by agents I built. The rest is me arguing with them.
 
 | Project | What it is |
 |---|---|
-| [claude-code-guardrails](https://github.com/TGabeCar/claude-code-guardrails) | **New:** config-driven safety hooks for Claude Code (secrets, live tools, PII). Tested on Linux + Windows |
+| [claude-code-guardrails](https://github.com/TGabeCar/claude-code-guardrails) | config-driven safety hooks for Claude Code (secrets, live tools, PII). Tested on Linux + Windows |
+| [evalkit](https://github.com/TGabeCar/evalkit) | Unit tests for prompts: YAML suites, LLM-as-judge, HTML report card, and a CI gate that fails the build when quality drops |
+| [mcp-sqlite-explorer](https://github.com/TGabeCar/mcp-sqlite-explorer) | MCP server that lets Claude interrogate a database it can't touch: four layers of read-only enforcement |
+| [tokenscope](https://github.com/TGabeCar/tokenscope) | Where did all the tokens go? Terminal dashboard of Claude Code usage and cost |
 | [AIArena](https://github.com/TGabeCar/AIArena) | Blind cage match: ChatGPT vs Claude vs Gemini vs Grok vs Perplexity |
 | [CandidateRanker](https://github.com/TGabeCar/CandidateRanker) | AI resume ranking with dual leaderboards (React + FastAPI) |
 | [OpenClaw-SandBox](https://github.com/TGabeCar/OpenClaw-SandBox) | A self-hosted AI coding agent, kept on a short leash |
