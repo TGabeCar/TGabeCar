@@ -1,4 +1,4 @@
-### Gabe // AI whisperer
+### Gabe
 
 I talk to models until they do real work. Agent swarms, private local-first AI, MCP servers wired into live systems, and harnesses strict enough that I can let them run unsupervised at 7am.
 
